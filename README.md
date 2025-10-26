@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulioEguis
-- 👀 I’m interested in ...Cybersecurity and computer systems
+- 👀 I’m interested in ... computer systems
 - 🌱 I’m currently learning ... Programming and cybersecurity
 - 💞️ I’m looking to collaborate on ...Programming and cybersecurity
 - 📫 How to reach me ...Julioeguis1@gmail.com  
