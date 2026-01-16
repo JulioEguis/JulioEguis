@@ -1,8 +1,8 @@
-## 👋 Hola, soy Julio Eguis  
+##  Hola, soy Julio Eguis  
 
-💻 Técnico en sistemas informáticos y entusiasta de DevOps.  
-🚀 Me apasiona la administración de servidores, la automatización y la nube.  
-🌱 Actualmente sigo aprendiendo sobre Linux, Bash scripting y herramientas DevOps (Docker, Git, CI/CD).  
-🤝 Me interesa colaborar en proyectos relacionados con infraestructura, virtualización y automatización.  
-📫 Puedes contactarme en: **julioeguis1@gmail.com**  
-⚡ Dato curioso: disfruto resolviendo problemas técnicos y optimizando procesos.
+- Administrador de sistemas IT (ASIR - IES Las encinas), actualmente Técnico de soporte en Acens/Hostalia) y actualmente estudiante de programa avanzado en DevOps en UNIR (universidad internaciona de la Rioja).  
+- Cacharreo administración de servidores, automatización y Cloud.  
+- Actualmente sigo avanzando sobre Windows server (Administra aplicaciones Web en IIS), que no se caigan los servidores en Linux o Unix (y si se caen, saber por qué), Bash scripting, Python y herramientas DevOps Docker, Git, CI/CD Pipelines (Jenkins), Virtualización..  
+- Me interesa colaborar en proyectos relacionados con infraestructura, virtualización y automatización.  
+- Puedes contactarme en: **julioeguis1@gmail.com**  
+- Dato curioso: si algo se hace tres veces, debe ser automatizado
